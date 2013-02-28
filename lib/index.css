@@ -7,7 +7,7 @@ html {
   text-size-adjust: 100%;
 }
 
-body * {
+* {
   -webkit-appearance: none;
   background: transparent;
   border: 0;
@@ -37,8 +37,12 @@ body * {
   white-space: normal;
 }
 
-body *:after,
-body *:before {
+*:after,
+*:before {
   content: '';
   content: none;
+}
+
+body * {
+  display: none;
 }
