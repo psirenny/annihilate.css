@@ -18,7 +18,8 @@ html {
   box-sizing: border-box;
   color: inherit;
   cursor: inherit;
-  display: block;
+  font: inherit;
+  font-family: inherit;
   font-size: inherit;
   font-size: 100%;
   font-style: normal;
@@ -33,10 +34,15 @@ html {
   text-decoration: none;
   text-transform: none;
   vertical-align: baseline;
+  white-space: normal;
 }
 
 *:after,
 *:before {
   content: '';
   content: none;
+}
+
+body * {
+  display: none;
 }
