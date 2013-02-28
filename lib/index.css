@@ -18,7 +18,7 @@ html {
   box-sizing: border-box;
   color: inherit;
   cursor: inherit;
-  display: inline;
+  display: none;
   font: inherit;
   font-family: inherit;
   font-size: inherit;
