@@ -1,0 +1,46 @@
+.block {
+  display: block;
+}
+
+.footer {
+  display: block;
+}
+
+.main {
+  display: block;
+}
+
+.header {
+  display: block;
+}
+
+.heading {
+  display: block;
+  font-weight: bold;
+  margin: 10px 0;
+}
+
+.link {
+  color: blue;
+  cursor: pointer;
+  display: inline;
+}
+.link:hover {
+  text-decoration: underline;
+};
+
+.paragraph {
+  display: block;
+}
+
+.pre {
+  display: block;
+}
+
+.select {
+  -webkit-appearance: menulist;
+}
+
+.text {
+  color: #333;
+}
