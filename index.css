@@ -2,6 +2,8 @@ html {
   color: transparent;
   cursor: default;
   font-family: 'Sans-serif';
+  font-style: normal;
+  font-weight: normal;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
@@ -22,8 +24,8 @@ html {
   font-family: inherit;
   font-size: inherit;
   font-size: 100%;
-  font-style: normal;
-  font-weight: normal;
+  font-style: inherit;
+  font-weight: inherit;
   line-height: normal;
   list-style: none;
   margin: 0;
