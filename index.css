@@ -9,7 +9,10 @@ html {
   text-size-adjust: 100%;
 }
 
-* {
+*,
+*::-moz-progress-bar,
+*::-webkit-progress-bar,
+*[aria-valuenow]:before {
   -webkit-appearance: none;
   background: transparent;
   border: 0;
