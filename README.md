@@ -1,5 +1,5 @@
 Annihilate.css
-============
+==============
 
 Annihilate.css is a reset stylesheet that eliminates all css rules from every single element on the page. In effect, erasing every element from the page until it is restyled.
 
