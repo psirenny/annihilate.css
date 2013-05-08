@@ -35,7 +35,7 @@ html {
   resize: none;
   text-decoration: none;
   vertical-align: baseline;
-  white-space: normal;
+  white-space: inherit;
   width: auto;
 }
 
